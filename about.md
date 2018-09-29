@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I want to be an honest developer
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+CODE EVERYDAY
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jobata@skuniv.ac.kr](jobata@skuniv.ac.kr)
