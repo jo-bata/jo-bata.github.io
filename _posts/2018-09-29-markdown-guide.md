@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MarkDown 가이드"
-tags: [test, style]
+tags: [markdown]
 comments: true
 ---
 
