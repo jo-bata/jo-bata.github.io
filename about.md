@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I want to be an honest developer
+I want to be an honest developer !
 
 ### More Information
 
-CODE EVERYDAY
+CODE EVERYDAY !
 
 ### Contact me
 
